@@ -7,169 +7,178 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-0.1.0-orange?style=for-the-badge)
 
-**🤖 Claude AI技能分享平台**
+**🤖 Claude Skills Hub - Discover & Download Claude Skills**
 
 [![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-informational)](https://claudeskill.site)
 [![Documentation](https://img.shields.io/badge/📚-Documentation-blue)](docs/)
-[![Get Started](https://img.shields.io/badge/🚀-Get%20Started-success)](#快速开始)
+[![Get Started](https://img.shields.io/badge/🚀-Get%20Started-success)](#getting-started)
 
 </div>
 
-## 📋 项目简介
+## Language / 语言
 
-Claude Skills Hub 是一个开源的AI技能分享平台，旨在为Claude用户提供实用的技能模板和工具。本项目专注于收集、整理和分享各类Claude技能，帮助用户提高工作效率。
+- **English** (Current)
+- [中文简体](README_ZH.md)
+- [日本語](README_JA.md)
+- [한국어](README_KO.md)
+- [Français](README_FR.md)
+- [Español](README_ES.md)
 
-### 🎯 项目目标
+## 📋 Project Overview
 
-- **📝 技能收集**: 收集和整理实用的Claude技能模板
-- **🔧 工具开发**: 提供代码生成、文档编写等实用工具
-- **📚 知识分享**: 建立技能分享和学习的社区平台
-- **🚀 效率提升**: 帮助用户快速找到并使用合适的AI技能
+Claude Skills Hub is an open-source AI skills sharing platform designed to provide practical skill templates and tools for Claude users. This project focuses on collecting, organizing, and sharing various Claude skills to help users improve their work efficiency.
 
-## ✨ 现有功能
+### 🎯 Project Goals
 
-### 📖 技能文档
-- **技能模板**: 提供标准化的技能描述格式
-- **使用指南**: 详细的技能使用说明和示例
-- **分类管理**: 按功能领域对技能进行分类
+- **📝 Skill Collection**: Collect and organize practical Claude skill templates
+- **🔧 Tool Development**: Provide code generation, documentation, and other practical tools
+- **📚 Knowledge Sharing**: Build a community platform for skill sharing and learning
+- **🚀 Efficiency Enhancement**: Help users quickly find and use appropriate AI skills
 
-### 🛠️ 基础工具
-- **文档生成**: 基础的文档模板和格式
-- **代码示例**: 常用的代码片段和模板
+## ✨ Current Features
 
-### 🌍 社区建设
-- **开放贡献**: 欢迎社区开发者贡献技能和改进
-- **文档标准**: 建立统一的技能文档规范
+### 📖 Skill Documentation
+- **Skill Templates**: Standardized skill description formats
+- **Usage Guides**: Detailed skill usage instructions and examples
+- **Category Management**: Skills organized by functional areas
 
-## 📊 项目现状
+### 🛠️ Basic Tools
+- **Document Generation**: Basic document templates and formats
+- **Code Examples**: Common code snippets and templates
+
+### 🌍 Community Building
+- **Open Contribution**: Welcome community developers to contribute skills and improvements
+- **Documentation Standards**: Establish unified skill documentation standards
+
+## 📊 Project Status
 
 <div align="center">
 
-| 指标 | 当前状态 | 说明 |
-|------|----------|------|
-| 📋 技能数量 | 3个示例 | 商业文档、UI组件、代码生成器 |
-| 📂 技能分类 | 8个类别 | 开发、设计、商业等领域 |
-| 📚 文档完整度 | 基础版本 | 用户指南和开发者文档 |
-| 🚀 项目阶段 | 早期开发 | 欢迎贡献和反馈 |
+| Metric | Current Status | Description |
+|--------|----------------|-------------|
+| 📋 Skills Count | 3 examples | Business docs, UI components, code generator |
+| 📂 Skill Categories | 8 categories | Development, design, business, etc. |
+| 📚 Documentation | Basic version | User guide and developer documentation |
+| 🚀 Project Phase | Early development | Contributions and feedback welcome |
 
 </div>
 
-## 🎯 技能分类
+## 🎯 Skill Categories
 
-本项目按以下类别组织AI技能，目前提供示例模板：
+This project organizes AI skills by the following categories, currently providing example templates:
 
-### 🔧 开发类 (Development)
-- **代码生成器**: 生成各类编程语言代码模板
-- **API文档生成**: 创建API接口文档
-- **测试代码**: 单元测试和测试用例生成
+### 🔧 Development
+- **Code Generator**: Generate code templates for various programming languages
+- **API Documentation**: Create API interface documentation
+- **Test Code**: Unit tests and test case generation
 
-### 🎨 设计类 (Design)  
-- **UI组件生成**: React/Vue/Angular组件模板
-- **设计文档**: 设计规范和说明文档
+### 🎨 Design  
+- **UI Component Generation**: React/Vue/Angular component templates
+- **Design Documentation**: Design specifications and documentation
 
-### 💼 商业类 (Business)
-- **商业文档**: 商业计划书、提案等文档模板
-- **分析报告**: 数据分析和报告格式
+### 💼 Business
+- **Business Documents**: Business plan, proposal, and other document templates
+- **Analysis Reports**: Data analysis and report formats
 
-### 📝 内容类 (Content)
-- **文章写作**: 博客和技术文章模板
-- **文档编写**: 技术文档和说明文档
+### 📝 Content
+- **Article Writing**: Blog and technical article templates
+- **Documentation**: Technical documentation and instruction manuals
 
-### 🎓 教育类 (Education)
-- **教学内容**: 课程设计和教学材料
-- **学习指南**: 学习路径和教程模板
+### 🎓 Education
+- **Teaching Materials**: Course design and educational materials
+- **Learning Guides**: Learning paths and tutorial templates
 
-*注：其他类别（分析、研究、娱乐）正在规划中，欢迎贡献相关技能。*
+*Note: Other categories (Analytics, Research, Entertainment) are in planning. Contributions welcome.*
 
-## 🚀 快速开始
+## 🚀 Getting Started
 
-### 使用技能
+### Using Skills
 
-1. **浏览技能**
-   - 访问 [claudeskill.site](https://claudeskill.site) 查看可用技能
-   - 查看 `skills/` 目录中的技能文档
+1. **Browse Skills**
+   - Visit [claudeskill.site](https://claudeskill.site) to view available skills
+   - Check the `skills/` directory for skill documentation
 
-2. **使用技能模板**
-   - 复制对应技能的 SKILL.md 内容
-   - 根据说明在Claude中使用技能
+2. **Use Skill Templates**
+   - Copy the corresponding skill's SKILL.md content
+   - Follow the instructions to use the skill in Claude
 
-### 开发和贡献
+### Development and Contribution
 
-1. **克隆项目**
+1. **Clone Project**
    ```bash
    git clone https://github.com/CavinHuang/claude-skills-hub.git
    cd claude-skills-hub
    ```
 
-2. **添加新技能**
-   - 在 `skills/` 目录下创建新的技能文件夹
-   - 按照现有格式编写 SKILL.md 文档
+2. **Add New Skills**
+   - Create a new skill folder in the `skills/` directory
+   - Write SKILL.md documentation following existing formats
 
-3. **提交贡献**
+3. **Submit Contributions**
    ```bash
    git add .
    git commit -m "feat: add new skill"
    git push origin feature/new-skill
    ```
 
-## 🛠️ 技术架构
+## 🛠️ Technical Architecture
 
-本项目采用简单的静态文件结构：
+This project uses a simple static file structure:
 
-- **前端**: Next.js 14 + TypeScript
-- **样式**: Tailwind CSS
-- **部署**: Vercel
-- **文档**: Markdown格式
+- **Frontend**: Next.js 14 + TypeScript
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
+- **Documentation**: Markdown format
 
-## 📚 文档资源
+## 📚 Documentation Resources
 
-- **[用户指南](docs/user-guide.md)**: 使用说明和教程
-- **[开发者文档](docs/developer-guide.md)**: 技术文档和开发指南
-- **[贡献指南](CONTRIBUTING.md)**: 如何参与项目贡献
+- **[User Guide](docs/user-guide.md)**: Usage instructions and tutorials
+- **[Developer Documentation](docs/developer-guide.md)**: Technical documentation and development guide
+- **[Contributing Guide](CONTRIBUTING.md)**: How to participate in project contributions
 
-## 🤝 贡献指南
+## 🤝 Contributing Guide
 
-我们欢迎所有形式的贡献！
+We welcome all forms of contributions!
 
-### 如何贡献
-- 🎯 添加新的技能模板
-- 📝 改进现有文档  
-- 🐛 修复问题
-- 💡 提出功能建议
+### How to Contribute
+- 🎯 Add new skill templates
+- 📝 Improve existing documentation  
+- 🐛 Fix issues
+- 💡 Suggest features
 
-### 贡献流程
-1. Fork 项目仓库
-2. 创建功能分支
-3. 提交您的更改
-4. 创建 Pull Request
+### Contribution Process
+1. Fork the project repository
+2. Create a feature branch
+3. Submit your changes
+4. Create a Pull Request
 
-详细贡献指南请参考 [CONTRIBUTING.md](CONTRIBUTING.md)
+For detailed contribution guidelines, please refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## 📄 许可证
+## 📄 License
 
-本项目采用 [MIT 许可证](LICENSE) - 欢迎自由使用、修改和分发。
+This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute.
 
-## 🙏 致谢
+## 🙏 Acknowledgments
 
-感谢所有为Claude Skills Hub做出贡献的开发者！
+Thanks to all developers who have contributed to Claude Skills Hub!
 
-### 贡献者
-- [@CavinHuang](https://github.com/CavinHuang) - 项目创建者
+### Contributors
+- [@CavinHuang](https://github.com/CavinHuang) - Project creator
 
-### 特别感谢
-- Anthropic Claude团队 - 提供AI技术支持
-- 开源社区 - 提供灵感和技术支持
+### Special Thanks
+- Anthropic Claude Team - Providing AI technology support
+- Open Source Community - Providing inspiration and technical support
 
-## 📞 联系方式
+## 📞 Contact
 
-- **🌐 网站**: [https://claudeskill.site](https://claudeskill.site)
-- **💬 讨论**: [GitHub Discussions](https://github.com/CavinHuang/claude-skills-hub/discussions)
-- **🐛 问题**: [GitHub Issues](https://github.com/CavinHuang/claude-skills-hub/issues)
+- **🌐 Website**: [https://claudeskill.site](https://claudeskill.site)
+- **💬 Discussions**: [GitHub Discussions](https://github.com/CavinHuang/claude-skills-hub/discussions)
+- **🐛 Issues**: [GitHub Issues](https://github.com/CavinHuang/claude-skills-hub/issues)
 
 ---
 
 <div align="center">
 
-**⭐ 如果这个项目对您有帮助，请给我们一个Star！**
+**⭐ If this project helps you, please give us a Star!**
 
 </div>

@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-0.1.0-orange?style=for-the-badge)
 
-**🤖 Claude AI 스킬 공유 플랫폼**
+**🤖 Claude Skills Hub - Claude 스킬 발견 및 다운로드**
 
 [![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-informational)](https://claudeskill.site)
 [![Documentation](https://img.shields.io/badge/📚-Documentation-blue)](docs/)
