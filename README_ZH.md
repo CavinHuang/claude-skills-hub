@@ -15,6 +15,15 @@
 
 </div>
 
+## 🌐 语言 / Language
+
+- [English](README.md)
+- **中文简体** (当前)
+- [日本語](README_JA.md)
+- [한국어](README_KO.md)
+- [Français](README_FR.md)
+- [Español](README_ES.md)
+
 ## 📋 项目简介
 
 Claude Skills Hub 是一个开源的AI技能分享平台，旨在为Claude用户提供实用的技能模板和工具。本项目专注于收集、整理和分享各类Claude技能，帮助用户提高工作效率。
